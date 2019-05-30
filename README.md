@@ -6,3 +6,4 @@ Assessment for Softrams. This project is quite simple, it does the following:
 # Steps to Assess
 1. vagrant up: this will create the vm and provision it.
 2. use google chrome, launch an incognito window and goto http://localhost:8080
+3. you should see "Hello World" displayed.
